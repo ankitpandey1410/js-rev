@@ -29,8 +29,43 @@
 
 
 
-let someNumber = 33
+// let someNumber = 33
 
-let stringNumber = String(someNumber)
-console.log(stringNumber)
-console.log(typeof stringNumber)
+// let stringNumber = String(someNumber)
+// console.log(stringNumber)
+// console.log(typeof stringNumber)
+
+
+
+/********************************** - OPERATION - ********************************/
+
+// let value = 5;
+// let negVal = -value;
+// console.log(negVal);
+
+// console.log(3+2);
+// console.log(3-2);
+// console.log(3*2);
+// console.log(3**2);
+// console.log(3/2);
+// console.log(3%2);
+
+// let str1 = "hello"
+// let str2 = " ankit"
+// let str3 = str1 + str2
+// console.log(str3);
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+
+// console.log(+true);
+// console.log(+"");
+
+let gameCounter = 100
+// console.log(gameCounter++)
+// console.log(gameCounter)
+
+console.log(++gameCounter)
+console.log(gameCounter)
